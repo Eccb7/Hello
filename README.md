@@ -181,7 +181,7 @@ I would like to thank Microverse for the support I've received so far.
 
 ## 📝 License <a name="license"></a>
 
-This project is MIT(./LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 
 
