@@ -36,8 +36,10 @@
 **This is a project is a project involving setting up a Hello World repository with the aim the needed mastery of various tools and best practices just learnt in the previous steps. Being that there is no required complex coding for this exercise, it serves as a foundation essential for all microverse projects and future jobs. The completion of this project will result to my first code review, a critical part in Microverse project process. this project helps me gain valuable experience and also develop essential skills neccesary for the success in my future career.**
 
 ## 🛠 Built With <a name="built-with"></a>
-**HTML**
-**CSS**
+ 
+ ### Tech Stack <a name="tech-stack"></a>
+- **HTML5**
+- **CSS3**
 ### Key Features <a name="key-features"></a>
 
 
@@ -61,8 +63,12 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
--To install a text editor e.g "VS CODE"
--To install GIT
+- HTML, CSS, and Javascript know-how.
+- Git installation
+- A text editor
+- A terminal
+- A web browser to view output e.g Google Chrome
+- An IDE e.g Visual studio code 
 
 ### Setup
 
@@ -122,11 +128,10 @@ Track CSS linter errors run:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+
 
 👤 **Ojwang Briton**
 
@@ -140,7 +145,6 @@ Track CSS linter errors run:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
